@@ -1,2 +1,2 @@
 # customer-churn
-Please compile the source code providing the exact path of the csv file in loading section of this python file
+Before compiling the source code please provide the exact path of the csv file in loading section of this python file
